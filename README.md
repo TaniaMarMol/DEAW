@@ -1,3 +1,11 @@
 # DEAW
 Este repositorio se ha creado para la asignatura Despliegue de Aplicaciones Web. 
-Aqui guardare ejercicios y pr†cticas relacionados con Git y GitHub. 
+
+
+## Compa√±eros
+
+ NOMBRE                      GITHUB                                    
+
+ Carlos Ruiz                 https://github.com/CarlosRuizz
+ Fran Carbonell              https://github.com/FranCarbonell
+ Laura Maria Pinedo          https://github.com/RikaMzHyde
